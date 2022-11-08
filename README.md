@@ -1,5 +1,5 @@
-Hey, welcome to my github thing for my texture pack download site thing!
+Hey, this is a social "linktree" type thing for rh56!
 
-Its basic, check it out tho :) 
+Its based off -https://treasureless.ca
 
--https://packs.treasureless.ca
+
